@@ -10,7 +10,8 @@ Personal consumer inventory system to keep track of users personal wine inventor
 
 ### Table of Content
 [User Stories](PERSONA.md)
-
+[Research](RESEARCH.md)
+[Development]
 ## Setup/Installation Requirements
 
 * _This is a great place_
