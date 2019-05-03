@@ -1,4 +1,4 @@
-# Cellar Tracker 
+# Cellar Tracker
 
 #### Personal Inventory Management System, May 3, 2019
 
@@ -7,6 +7,9 @@
 ## Description
 
 Personal consumer inventory system to keep track of users personal wine inventory.  
+
+### Table of Content
+[User Stories](PERSONA.md)
 
 ## Setup/Installation Requirements
 
