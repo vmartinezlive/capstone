@@ -7,10 +7,10 @@
 ## Development
 
 _Component Tree_
-![](assest/images/Scomponent-tree.png)
+![](src/assest/images/Scomponent-tree.png)
 
 _Figma Logo Work_
-![](assest/logos/logo-figma.png)
+![](src/assest/logos/logo-figma.png)
 
 _Sketch Bottle Work_
-![]()
+![](src/assest/images/sketch.jpg)
