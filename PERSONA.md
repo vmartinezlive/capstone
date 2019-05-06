@@ -6,7 +6,7 @@
 
 ### User Stories
 
-##Persona
+_Persona_
 
 1. Ken, VP of finance, Single, Wine Connoisseur.  Joe likes to entertain friends, colleague and family at his house.  Joe is very busy traveling for work and he is a wine club member at 5 wine different winery and often purchases wine when he travels.
 
