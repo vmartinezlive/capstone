@@ -13,7 +13,7 @@ _Figma Logo Work_
 ![](src/assest/logos/logo-figma.png)
 
 _Sketch_
-![](src/assest/images/reasearch images/sketch1.jpg)
+![](src/assest/images/reasearch/images/sketch1.jpg)
 
 _Wireframing_
-![](src/assest/images/reasearch images/wireframing .jpg)
+![](src/assest/images/reasearch/images/wireframing .jpg)
