@@ -16,4 +16,4 @@ _Sketch_
 ![](src/assest/images/reasearch/images/sketch1.jpg)
 
 _Wireframing_
-![](src/assest/images/reasearch/images/wireframing .jpg)
+![](src/assest/images/reasearch/images/wireframing.jpg)
