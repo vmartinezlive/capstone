@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import LandingPage from 'LandingPage';
 import SignIn from 'SignIn';
 import background from '../assets/images/app.png';
+import logo from '../assets/logos/logo2.png';
+import SideBar from './SideBar';
 
 
 class App extends Components{
@@ -24,12 +26,13 @@ class App extends Components{
             left: 1162px;
             top: 39px;
           }
-
-            `}</style>
+          `}</style>
         <LandingPage/>
         <SignIn/>
         <img className="background" src={background} alt="background picture of wine rack glasses and a large picture of green grapes"></img>
-        
+        <img className="logo" src={logo} alt="cellar tracker"></img>
+        <SideBar/>
+
 
 
 
