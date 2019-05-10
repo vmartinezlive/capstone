@@ -17,7 +17,18 @@ Personal consumer inventory system to keep track of users personal wine inventor
 1pm - 2pm: lunch
 2pm - 3pm: Complete logo
 3pm - 4pm: researched several sites
-4pm - 5pm: Started wireframing
+4pm - 5pm: Started wire-framing
+
+### Timeline of work for May 10, 2019
+8am - 9am: Watch Net Ninja
+9am - 10am: Watch Net Ninja
+10am - 11am: Research Materialized
+11am - 12pm: Create Sign-in and Landing Component
+12pm - 1pm: Worked on App Component
+1pm - 2pm: lunch
+2pm - 3pm: Worked on SideBar Component
+3pm - 4pm: Worked on Cards Component
+4pm - 5pm: Stopped at 4pm and continue on Sunday, May 12, 2019
 
 
 ### Table of Content
