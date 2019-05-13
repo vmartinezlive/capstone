@@ -4,7 +4,8 @@ import background from '../assets/images/6.png';
 
 function SignIn(){
   return(
-    <div><style>{`
+    <div>
+      <style>{`
       .one{
         position: absolute;
         left: 9.81%;
@@ -136,9 +137,6 @@ function SignIn(){
       <input type="email" className="confirm-password2"   placeholder="Confirm email">
       <br/>
       <button type="submit" calssName="submit">Submit</button>
-
-
-
     </div>
   )
 }

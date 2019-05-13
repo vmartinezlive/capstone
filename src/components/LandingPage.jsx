@@ -70,6 +70,7 @@ function LandingPage(){
           <p className="firstP">Forgot Password</p>
           <p className="secondP">Don’t have any account? Sign Up</p>
         </form>
+
     </div>
   }
 }
