@@ -5,6 +5,8 @@ import background from '../assets/images/app.png';
 import logo from '../assets/logos/logo2.png';
 import SideBar from './SideBar';
 import { Switch, Link, Route } from 'react-router-dom';
+import Error404 from '.Error404';
+
 
 
 class App extends Components{
@@ -34,6 +36,7 @@ class App extends Components{
         <img className="logo" src={logo} alt="cellar tracker"></img>
         <Switch>
           <Route exact path='/' component={App}/>
+          <Route component={Error404} />
 
         </Switch>
         <SideBar/>
